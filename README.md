@@ -1,18 +1,7 @@
-# MONOÆTHER GROUP
+# Monoæther Group
 
-Not listed.  
-Not launched.  
-Not looking.
+Rare domains. Quiet presence.  
+We do not reach out. We are reached.
 
-⟁
-
-Some domains are frequencies.  
-Some are locks.  
-One is the key.
-
-⟁
-
-Silence is not absence.  
-It's signal beyond noise.
-
-⟁
+This is a placeholder.  
+Everything else is silence.
