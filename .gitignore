@@ -1,0 +1,21 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs and temporary
+*.log
+*.tmp
+*.swp
+
+# MacOS specific
+._*
+
+# Netlify deploy settings (optional)
+netlify.toml
+
+# Cache and local preview
+.cache/
+*.local
